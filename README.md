@@ -1,1 +1,0 @@
-A portfolio I creted to showcase what  did. I heavily based it on the one made by schouffy that you can find [here](https://github.com/schouffy/gamedev-portfolio).
